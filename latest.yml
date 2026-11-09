@@ -1,7 +1,7 @@
-version: 0.0.8
+version: 0.0.9
 files:
-  - url: HDL_Wiki_Setup_v0.0.8.exe
-    sha512: OTso+zW+BSACWwizae5KqG1VyjQqaTKRxejMD+apNedUgIBJspYTvGQoBlbT42Yu7fMBZ7aE9BrhOqITEl9eBg==
-path: HDL_Wiki_Setup_v0.0.8.exe
-sha512: OTso+zW+BSACWwizae5KqG1VyjQqaTKRxejMD+apNedUgIBJspYTvGQoBlbT42Yu7fMBZ7aE9BrhOqITEl9eBg==
-releaseDate: '2026-11-07T02:18:53.765Z'
+  - url: HDL_Wiki_Setup_v0.0.9.exe
+    sha512: f7rjF7F1mtInty8DSD2VWmVmp99n+tzuhXCOIsQmerwbHzBYWBG+hPrGnTBAVP5qelcgIuUky7eq98+wyj2EFw==
+path: HDL_Wiki_Setup_v0.0.9.exe
+sha512: f7rjF7F1mtInty8DSD2VWmVmp99n+tzuhXCOIsQmerwbHzBYWBG+hPrGnTBAVP5qelcgIuUky7eq98+wyj2EFw==
+releaseDate: '2026-11-09T01:49:16.867Z'
